@@ -1,7 +1,7 @@
 const {src, dest, series} = require('gulp');
 
 function build(cb) {
-    src('dist/**/*').pipe(dest('dist'));
+    src('src/**/*').pipe(dest('dist'));
     cb();
 };
 
