@@ -1,3 +1,3 @@
-const {ConnectionResource} = require('./resource-pool-connection');
+const {ConnectionResource} = require('./resource-pools-connection');
 
 exports.ConnectionResource = ConnectionResource;
