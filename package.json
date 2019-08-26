@@ -2,7 +2,7 @@
   "name": "resource-pool-connection",
   "version": "1.0.0",
   "description": "Extension of 'tedious' connection class to use as a pooled promised resource without need to wait for release",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp",
