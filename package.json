@@ -1,0 +1,34 @@
+{
+  "name": "resource-pool-connection",
+  "version": "1.0.0",
+  "description": "Extension of 'tedious' connection class to use as a pooled promised resource without need to wait for release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwkit/resource-pool-connection.git"
+  },
+  "keywords": [
+    "resource",
+    "pool",
+    "tedious",
+    "promised",
+    "connection"
+  ],
+  "author": "bitwkit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitwkit/resource-pool-connection/issues"
+  },
+  "homepage": "https://github.com/bitwkit/resource-pool-connection#readme",
+  "dependencies": {
+    "tedious": "^6.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
