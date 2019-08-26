@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Extension of 'tedious' connection class to use as a pooled promised resource without need to wait for release",
   "main": "dist/index.js",
+  "files": ["dist/**/*"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp",
