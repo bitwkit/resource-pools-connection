@@ -2,7 +2,7 @@
 // Dependencies
 
 const {Connection} = require('tedious');
-const {readyEventSym, errorEventSym, closeMethodSym} = require('resource-pool');
+const {readyEventSym, errorEventSym, closeMethodSym} = require('resource-pools');
 
 
 // Extended Connection object to match ResoursePool requirements
