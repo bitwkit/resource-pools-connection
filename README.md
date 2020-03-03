@@ -1,5 +1,5 @@
 # resource-pools-connection
-Extension of 'tedious' connection class to use as a pooled resource without blocking in busy state
+Extension of 'tedious' connection class for using as a pooled resource with [**resource-pools** package](https://www.npmjs.com/package/resource-pools) package, without blocking in busy state.
 
 ## usage
 
