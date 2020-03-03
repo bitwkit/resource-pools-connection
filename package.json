@@ -28,7 +28,7 @@
     "url": "https://github.com/bitwkit/resource-pools-connection/issues"
   },
   "homepage": "https://github.com/bitwkit/resource-pools-connection#readme",
-  "dependencies": {
+  "peerDependencies": {
     "resource-pools": "^2.0.0",
     "tedious": "^6.3.0"
   },
