@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/bitwkit/resource-pools-connection#readme",
   "dependencies": {
-    "resource-pools": "^1.0.0",
+    "resource-pools": "^2.0.0",
     "tedious": "^6.3.0"
   },
   "devDependencies": {
