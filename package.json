@@ -1,6 +1,6 @@
 {
   "name": "resource-pools-connection",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Extension of 'tedious' connection class to use as a pooled promised resource without need to wait for release",
   "main": "dist/index.js",
   "files": [
